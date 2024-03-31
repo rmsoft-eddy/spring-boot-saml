@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: 'sso'
+  datasource:
+    url: 'jdbc:mariadb://140.238.19.145:3306/KIPF_IDP'
+    username: 'root'
+    password: 'dkagh1.'
